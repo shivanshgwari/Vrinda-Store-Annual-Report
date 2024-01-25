@@ -1,5 +1,5 @@
 # Vrinda-Store-Annual-Repor
-OBJECTIVES
+OBJECTIVES:
 Vrinda store wants to create an annual report for 2022.So that, Vrinda can understand their customers and grow more sales in 2023.
 
 Sample Questions
